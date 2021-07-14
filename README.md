@@ -1,7 +1,7 @@
-# naramalaleelakrishna27
+# Test Clover Emailtemplates Test Code
 This project is used to test the html content in sendemailnotifications.
 
-Input : 
+# Input : 
 {
     "fromMail" : "test fromgmail account", // Change accordingly
     "toMail" : "test togmail account",// Change accordingly
@@ -10,8 +10,8 @@ Input :
     "subject" : "subject to the mail" // Change accordingly
 }
 
-Sucess Output :
+# Sucess Output :
 send email successfully
 
-Failure Output :
+# Failure Output :
 send email unsuccessfull
